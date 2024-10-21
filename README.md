@@ -7,7 +7,7 @@ UPM WP3.1-WP4.2
 
 #To run the app:
 
-kubectl apply -f ./release/kubernetes-manifests.yaml
+kubectl apply -f kubernetes-manifests.yaml
 
 #Load generation 
 
