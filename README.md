@@ -1,9 +1,7 @@
 # Failure_injection
 UPM WP3.1-WP4.2
 
-#In the following, we deployed one benchmark microservice application (online boutique) on Kubernetes and injected failures (CPU, Memory overload, and 
-
-network delay/loss) in one of the microservices and we generated loads using one of the microservices.
+#In the following, we deployed one benchmark microservice application (online boutique) on Kubernetes. We injected failures (CPU, Memory overload, and network delay/loss) in one of the microservices and we generated loads using one of the microservices.
 
 #More indormation is in this link: https://github.com/GoogleCloudPlatform/microservices-demo/blob/main/README.md
 
