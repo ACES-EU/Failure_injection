@@ -21,4 +21,4 @@ kubectl exec -it -n online-boutique paymentservice-7ff48697f6-mq77m --sh
 
 #We used mainly two tools for failure injection: stress-ng and iproute2-tc
 
-Results are shown in the folder screenshots.
+Results are shown in screenshots files.
